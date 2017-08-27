@@ -11,6 +11,7 @@ Dataset contains amount of advertisement done through varies modes of advertisem
 - Dataframe is divided into training and testing dataframe.
 - Model is trained using Linear Regression function present in scikit-learn library.
 - Model is tested and accuracy calculated using mean squared function.
+- Accuracy at present is 1.928.
 
 ## How to Use :-
 - Install Jupyter notebook and clone and download the code in the same directory in which Jupyter notebook is installed.
